@@ -1,0 +1,44 @@
+--- !ruby/object:Hangman
+word: theriomorphic
+display_word:
+- t
+- h
+- e
+- r
+- i
+- o
+- m
+- o
+- r
+- " "
+- h
+- i
+- c
+counter: 4
+hanged: "    _____\n\t|\n\to\n\t/\\\n\t|\n"
+element:
+- "\to\n"
+- "\t/"
+- |
+  \
+- "\t|\n"
+- "\t/"
+- |
+  \
+used_letters:
+- t
+- d
+- s
+- f
+- c
+- g
+- h
+- e
+- i
+- o
+- m
+input: ''
+msg: |2-
+
+  invalid!!
+
